@@ -6,7 +6,7 @@ To install and set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/your-username/your-repository.git](https://github.com/AsbDaryaee/Node.JS_AudioConcater.git
 
 2. Navigate to the project directory
 
