@@ -42,7 +42,7 @@ To install and set up the project locally, follow these steps:
 ## Controllers
 1. `MainPageView.js`: Renders the main page view for the application.
 2. `ResultPageView.js`:  Renders the result page view for the application.
-3. `UploadFile.js`: Handles file upload functionality, allowing users to upload input files.
+3. `UploadFile.js`: Handles file upload functionality, allowing users to upload input files. It is responsible for processing audio files and adding announcements to them. It reads data from a JSON file, performs various operations such as bitrate conversion and concatenation, and then adds ID3v2 tags to the output files.
 4. `UploadFilesRead.js`:  Reads and processes uploaded files.
 5. `AnnounceFile.js`:  Adds an announcement at the end of the input file using ffmpeg.
 6. `CleanUp.js`:  Performs cleanup operations, such as deleting temporary files.
