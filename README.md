@@ -48,7 +48,6 @@ To install and set up the project locally, follow these steps:
 6. `CleanUp.js`:  Performs cleanup operations, such as deleting temporary files.
 
 ## Routes
-### Index Route (`index.js`)
 - `GET /`:  Renders the main page view.
 - `POST /upload`: Handles file uploads and initiates the process of adding an announcement.
 
